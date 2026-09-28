@@ -30,7 +30,6 @@ Games dev grad from Ireland 🇮🇪 who lives in C++ and enjoys getting close t
 
 - Portfolio: [alexbowes51.github.io](https://alexbowes51.github.io)
 - Email: alexbowes12@outlook.ie
-- LinkedIn: [Alex-Bowes]((https://www.linkedin.com/in/alex-bowes-567815288/))
+- LinkedIn: [Alex-Bowes](https://www.linkedin.com/in/alex-bowes-567815288/)
 
-<!-- Optional stats, add later once your activity graph has some green -->
-<!-- ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexbowes51&show_icons=true&theme=dark) -->
+[Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexbowes51&show_icons=true&theme=dark)
